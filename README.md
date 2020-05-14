@@ -1,13 +1,13 @@
 # lesson_loading_icon_js_v6
 
-JavaScriptでスロットマシンを作ろう（全13回）
+### JavaScriptでローディングアイコンを作ろう（全7回）
 
 ===
 
-概要
-JavaScriptでスロットマシンを作る方法を学んでいきます。
+### 概要
+HTML5のCanvasとJavaScriptでローディングアイコンを実装する方法について見ていきます。
 
-URL
-https://github.com/NanaTerada/lesson_slot_machine_js_v6.git
+### URL
+https://github.com/NanaTerada/lesson_loading_icon_js_v6.git
 
-メモ
+### メモ
