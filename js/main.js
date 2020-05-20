@@ -1,6 +1,6 @@
 // 'use strict'
 
-
+かん
 
     (() => {
         class IconDrawer {
